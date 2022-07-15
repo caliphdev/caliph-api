@@ -52,7 +52,7 @@
     "instatouch": "^2.3.14",
     "mime": "^1.6.0",
     "fs": "^0.0.1-security",
-    "change-case": "^3.0.2",
+    "change-case": "^4.0.0",
     "html-entities": "^1.2.1"
   }
 }
