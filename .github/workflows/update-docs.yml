@@ -24,7 +24,7 @@ jobs:
         echo "::set-output name=commit-msg::$(git log -1 --pretty=%B)"
         
     - name: Setup Node.js environment
-      uses: actions/setup-node@v2.1.1
+      uses: actions/setup-node@v2.5.1
 
     - name: Install Dependencies
       run: yarn
