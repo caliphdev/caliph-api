@@ -33,7 +33,7 @@ jobs:
       run: yarn run build:all
       
     - name: Publish to Pages
-      uses: crazy-max/ghaction-github-pages@v2
+      uses: crazy-max/ghaction-github-pages@v3
       with:
         target_branch: gh-pages     
         build_dir: docs
