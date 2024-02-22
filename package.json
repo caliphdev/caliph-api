@@ -38,7 +38,7 @@
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
-    "axios": "^0.27.0",
+    "axios": "^0.28.0",
     "cheerio": "^1.0.0-rc.5",
     "cookie": "^0.5.0",
     "@vitalets/google-translate-api": "^8.0.0",
