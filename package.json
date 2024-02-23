@@ -55,6 +55,6 @@
     "fs": "^0.0.1-security",
     "ip-range-check": "^0.2.0",
     "change-case": "^3.0.2",
-    "html-entities": "^1.2.1"
+    "html-entities": "^2.0.0"
   }
 }
