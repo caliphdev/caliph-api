@@ -51,7 +51,7 @@
     "ytdl-core": "github:fent/node-ytdl-core",
     "whois": "latest",
     "instatouch": "^2.3.14",
-    "mime": "^1.6.0",
+    "mime": "^3.0.0",
     "fs": "^0.0.1-security",
     "ip-range-check": "^0.2.0",
     "change-case": "^3.0.2",
